@@ -5,7 +5,7 @@
         <br>
         <br>
         THANKS FOR YOUR ORDER!<br>
-        A confirmation email will be sent to you at bianca.buzatu61@gmail.com with your complete order details.
+        A confirmation email will be sent to you at bena_otilia88@yahoo.com with your complete order details.
     </h1>
 </template>
 
